@@ -1,9 +1,0 @@
-// multiplicação
-function multiplicacao(a: number, b: number): number {
-  return a * b;
-}
-
-// saudação com nome
-function saudacao(nome: string): string {
-  return "Olá " + nome;
-}
